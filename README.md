@@ -12,25 +12,6 @@ This project detects spam emails using machine learning.
   - matplotlib >= 3.6.0
   - seaborn >= 0.12.0
 
-## Project Structure
-
-Spam Email Detection/
-├── spam_detection.py              
-├── requirements.txt               
-├── Spam_README.md                 
-├── Dataset/                       
-│   ├── spam_train1.csv
-│   ├── spam_train2.csv
-│   └── spam_test.csv
-├── Results/                       
-│   ├── PeriyasswamiSpam.txt
-│   └── model_results.csv
-└── Visualizations/                
-    ├── accuracy_comparison.png
-    ├── confusion_matrices.png
-    ├── test_predictions_distribution_bar.png
-    └── test_predictions_distribution_pie.png
-
 ## Files Needed
 
 Make sure the `Dataset/` folder contains files with these exact names:
